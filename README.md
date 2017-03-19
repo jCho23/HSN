@@ -1,14 +1,14 @@
 # HSN
 Automation Test Scripts for HSN
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
